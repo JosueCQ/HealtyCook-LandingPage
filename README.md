@@ -1,7 +1,8 @@
 ## HealthyCook LandingPage
- Aplicaciones Open Soruce SI652-2101-WV52
+ Lading Page of HealthyCook
  Integrantes:
-- Vela Sarazú, Josmar	         u201611746
-- Ferrándiz Bendezu, Antonio Jose	U201918042
+- Cartagena Quipas, Josue	         U201415040
 - Montes Molina, Sebastian Alejandro	U201712366
-- Huerta Macedo, Gerardo Josue 	u201812031
+- Huacacolque Toledo, Enzo U201620508
+- Lopez Duran, Luciano	U201819883
+- Huamani Injante, Pablo David U20181b001
