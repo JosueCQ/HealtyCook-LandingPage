@@ -1,2 +1,2 @@
-# HealtyCook-LandingPage
+# HealtyCook LandingPage
 Landing Page of HealthyCook
